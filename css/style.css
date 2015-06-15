@@ -14,3 +14,8 @@ a.fa.h4 {
   text-decoration: none;
   font-size: 24px;
 }
+
+input[type=checkbox]:checked:after {
+  background-color: #4caf50 !important;
+  border-color: #4caf50 !important;
+}
